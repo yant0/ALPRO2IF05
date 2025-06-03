@@ -39,7 +39,7 @@ def generate_markdown_table(base_path):
     return "\n".join(header + separator + rows)
 base_folder = "./"
 markdown = generate_markdown_table(base_folder)
-with open("homework_status.md", "w", encoding="utf-8") as f:
+with open("README.md", "w", encoding="utf-8") as f:
     f.write(markdown)
 
 print("✅ Done. Check 'homework_status.md'")
