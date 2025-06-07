@@ -43,9 +43,6 @@
 [submodule "Alpro2_RizkiAgungPrasetya_103112400263"]
 	path = 103112400263 RIZKI AGUNG PRASETYA
 	url = https://github.com/RizkiAgungPrasetya/Alpro2_RizkiAgungPrasetya_103112400263
-[submodule "ALPRO_TrisnaKusumaRamadhany_103112400277"]
-	path = 103112400277 TRISNA KUSUMA RAMADHANY
-	url = https://github.com/trisnakusumaramadhany/ALPRO_TrisnaKusumaRamadhany_103112400277
 [submodule "ALPRO_Gustaf_Adiyatma_Alfito_103112400266"]
 	path = 103112400266 GUSTAF ADIYATMA ALFITO
 	url = https://github.com/gustafadiyatma/ALPRO_Gustaf_Adiyatma_Alfito_103112400266
@@ -118,3 +115,9 @@
 [submodule "103112400278 RAYHANDHIKA SHAFA BAGASTAMA"]
 	path = 103112400278 RAYHANDHIKA SHAFA BAGASTAMA
 	url = https://github.com/Rayh4n/ALPRO_RayhandhikaShafaBagastama_103112400278-
+[submodule "103112400277 TRISNA KUSUMA RAMADHANY"]
+	path = 103112400277 TRISNA KUSUMA RAMADHANY
+	url = https://github.com/trisnakusumaramadhany/ALPRO-2_trisnakusumaramadhany_103112400277
+[submodule "103112400266 GUSTAF ADIYATMA ALFITO"]
+	path = 103112400266 GUSTAF ADIYATMA ALFITO
+	url = https://github.com/gustafadiyatma/ALPRO2_Gustafadiyatmaalfito_103112400266
