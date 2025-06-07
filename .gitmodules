@@ -46,9 +46,6 @@
 [submodule "ALPRO_TrisnaKusumaRamadhany_103112400277"]
 	path = 103112400277 TRISNA KUSUMA RAMADHANY
 	url = https://github.com/trisnakusumaramadhany/ALPRO_TrisnaKusumaRamadhany_103112400277
-[submodule "ALPRO_FakhriNaabilPrasetyo_103112400274"]
-	path = 103112400274 FAKHRI NAABIL PRASETYO
-	url = https://github.com/FakhriNaabilPrasetyo/ALPRO_FakhriNaabilPrasetyo_103112400274
 [submodule "ALPRO_Gustaf_Adiyatma_Alfito_103112400266"]
 	path = 103112400266 GUSTAF ADIYATMA ALFITO
 	url = https://github.com/gustafadiyatma/ALPRO_Gustaf_Adiyatma_Alfito_103112400266
@@ -100,9 +97,6 @@
 [submodule "ALPRO_2_SHAFA_FAREL_AZKA_103112400259"]
 	path = 103112400259 SHAFA FAREL AZKA
 	url = https://github.com/ShafaFarel/ALPRO_2_SHAFA_FAREL_AZKA_103112400259
-[submodule "Alpro2_hammamtiharananda_103112400276"]
-	path = 103112400276 HAMMAM TIHAR ANANDA
-	url = https://github.com/Hammamtiharananda/Alpro2_hammamtiharananda_103112400276
 [submodule "ALPRO2_AnisaKeyzaHK_2211102210"]
 	path = 2211102210 ANISA KEYZA HUSNUL KHATIMAH
 	url = https://github.com/Cayenakey/ALPRO2_AnisaKeyzaHK_2211102210
@@ -113,11 +107,14 @@
 	path = 103112430015 FAIQ JAGADHITA HARDIANA
 	url = https://github.com/faiqjagadhita/ALPRO2_FaiqJagadhitaHardiana_103112430015
 [submodule "103112400276 HAMMAM TIHAR ANANDA 2"]
-	path = 103112400276 HAMMAM TIHAR ANANDA 2
+	path = 103112400276 HAMMAM TIHAR ANANDA
 	url = https://github.com/Hammatiharanandaa/Alpro2_103112400276
 [submodule "103112400274 FAKHRI NAABIL PRASETYO 2"]
-	path = 103112400274 FAKHRI NAABIL PRASETYO 2
+	path = 103112400274 FAKHRI NAABIL PRASETYO
 	url = https://github.com/FakhriNaabilPrasetyo/Alpro2_FakhriNaabilPrasetyo_103112400274
 [submodule "103112400275 Dafa Awal Wahyu Pambudi 2"]
-	path = 103112400275 Dafa Awal Wahyu Pambudi 2
+	path = 103112400275 DAFA AWAL WAHYU PAMBUDI
 	url = https://github.com/Hollowwwx/ALPRO2_Dafa_Awal_Wahyu_Pambudi_103112400275
+[submodule "103112400278 RAYHANDHIKA SHAFA BAGASTAMA"]
+	path = 103112400278 RAYHANDHIKA SHAFA BAGASTAMA
+	url = https://github.com/Rayh4n/ALPRO_RayhandhikaShafaBagastama_103112400278-
